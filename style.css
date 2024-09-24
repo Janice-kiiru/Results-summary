@@ -1,0 +1,147 @@
+
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+    body{
+        display: flex;
+    }
+ .container{
+      text-align: right;
+      margin-right: 500px;
+      position: absolute;
+      margin-top: 100px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+ }
+ .container p{
+    justify-content: flex-end;
+ }
+ .button button{
+     cursor: pointer;
+      justify-content: center;
+      align-items: center;
+      background-color: blue;
+      width: 200px;
+      height: 30px;
+      border-radius: 30px;
+      display: flex;
+      margin-left: 800px;
+      margin-top: 40px;
+      font-size: small;
+      border: 0px;
+ }
+  button p{
+    max-height: fixed;
+    color: white;
+    
+ }
+  h4{
+    color: black;
+    padding-right: 150px;
+  }
+  .card{
+    text-align: left;
+    margin-left: 500px;
+    margin-top: 100px;
+    background-color: blue;
+    width: 20%;
+    align-items: center;
+border-radius: 20px;
+color: white;
+    height: 350px;
+  }
+  .card p{
+    text-align: center;
+    display: flex;
+    padding-left: 46px;
+    font-size: small;
+
+  }
+  .result{
+    width: 100px;
+    text-align: center;
+    margin-top: 30px ;
+    border: 0px solid;
+    display: block;
+    margin-left:85px ;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    border-radius: 50%;
+    background-color: darkblue;
+  }
+  .number{
+    margin-top: 30px;
+    padding: 20px;
+    font-size: xxx-large;
+  }
+  .card header{
+    text-align: center;
+    margin-top: 40px;
+  }
+  h1{
+    text-align: center;
+    font-size: large;
+    margin-top: 30px;
+  }
+  .Reaction{
+    margin-right: 90px;
+    color: red;
+    font-size: small;
+  }
+  .memory{
+    margin-right: 94px ;
+    color: orange;
+    font-size: small;
+  }
+.verbal{
+  margin-right: 105px ;
+  color: rgb(0, 128, 0);
+  font-size: small;
+}
+.visual{
+  margin-right: 99px ;
+    color: blue;
+    font-size: small;
+}
+.one{
+  background-color: pink;
+  padding: 10px;
+  height: 20px;
+  font-size: small;
+  margin-bottom: 20px;
+  border-radius: 2px;
+}
+.two{
+  background-color: beige;
+  padding: 10px;
+  height: 20px;
+  font-size: small;
+  margin-top: 20px;
+  border-radius: 1%;
+}
+.three{
+  background-color: rgba(255, 248, 220, 0.76);
+  padding:10px ;
+  height: 20px;
+  font-size: small;
+  margin-bottom: 20px;
+  border-radius: 2px;
+}
+.four{
+  background-color: rgb(135, 250, 235) ;
+  padding:10px ;
+  height: 20px;
+  font-size: small;
+  margin-bottom: 20px;
+  border-radius: 2px;
+}
+
+
+
+
+
+
+
+
